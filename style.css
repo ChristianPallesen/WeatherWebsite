@@ -1,0 +1,40 @@
+
+html {
+  font-family: sans-serif;
+}
+
+div {
+  border: 1px solid grey;
+  padding: 8px;
+  background-color: white;
+}
+
+body {
+  width: 100%;
+  max-width: 85%;
+  min-width: 85%;
+  margin: 0 auto;
+  background-color: white;
+  background-image: url("images/weather.jpg");
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: solid;
+}
+
+p {
+  color: black;
+  text-align: left;
+  font-weight: 600;
+}
+
+label {
+  color: black;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: solid;
+}
+
